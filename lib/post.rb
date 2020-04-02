@@ -11,7 +11,7 @@ class Post
   def author 
      @author 
      
-     binding.pry
+    # binding.pry
      
   end
 end
