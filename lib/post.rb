@@ -7,8 +7,7 @@ class Post
   
   
   def author 
-     author = self.new
-     author
+     @author = author
      
   end
 end
