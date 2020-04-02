@@ -4,4 +4,9 @@ class Post
   def initialize
     @title = title
   end
+  
+  
+  def author 
+    
+  end
 end
